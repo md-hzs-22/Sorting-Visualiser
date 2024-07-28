@@ -22,6 +22,8 @@ Once the webpage is opened, you'll be greeted with an interface to start visuali
 4. Start Visualization: Click the 'Sort' button to begin the sorting visualization.
 5. Control Speed: Adjust the slider to change the speed of the animation.
 
+`Note: There would be a single slider for both array size and speed. So as a student selects smaller array size, it will be sorted in less speed so that he can properly see the swaps and changes the algorithm makes in the array. And if bigger size is selected for the array, then it will be sorted in higher speed so that the student can understand the overall working of the algorithm.`
+
 #### Supported Sorting Algorithms
 1. `Bubble Sort`
 2. `Selection Sort`
