@@ -1,6 +1,6 @@
 # Sorting-Visualiser
 
-## Overview of the project
+## Overview
 
 Sorting Visualizer is a web app that shows how the following three basic sorting algorithms works: 
 1. Bubble Sort
