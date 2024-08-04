@@ -23,7 +23,9 @@ Once the webpage is opened, you'll be greeted with an interface to start visuali
 4. Start Visualization: Click on the sort button to start the sorting visualization of selected sorting algorithm.
 5. Control Speed: Adjust the slider to change the speed of the animation.
 6. Pause: This feature allows you pause the animation in between. The pause button will change into 'Resume' on clicking, hence clicking 'Resume' will continue the animation.
-7. Stop: This features allows you to stop the visualisation if you want to start it over from beginning. 
+7. Stop: This features allows you to stop the visualisation if you want to start it over from beginning.
+
+`Note: Download the html,css files and javascript folder in single folder in order to run the Sorting visualiser.`
 
 #### Supported Sorting Algorithms
 1. `Bubble Sort`
