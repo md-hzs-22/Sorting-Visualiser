@@ -20,9 +20,10 @@ Once the webpage is opened, you'll be greeted with an interface to start visuali
 1. Select a Sorting Algorithm: Choose from the list of available sorting algorithms.
 2. Adjust Array Size: Use the slider to set the number of elements in the array. 
 3. Shuffle Array: Click the 'New Array' button to randomize the array elements.
-4. Start Visualization: Click any sorting algorithm button like 'Bubble Sort' or 'Insertion Sort' to begin the sorting visualization.
+4. Start Visualization: Click on the sort button to start the sorting visualization of selected sorting algorithm.
 5. Control Speed: Adjust the slider to change the speed of the animation.
-6. Pause in between: This feature allows you stop the animation in between. The pause button will change into 'Resume' on clicking, hence clicking 'Resume' will continue the animation.
+6. Pause: This feature allows you pause the animation in between. The pause button will change into 'Resume' on clicking, hence clicking 'Resume' will continue the animation.
+7. Stop: This features allows you to stop the visualisation if you want to start it over from beginning. 
 
 #### Supported Sorting Algorithms
 1. `Bubble Sort`
