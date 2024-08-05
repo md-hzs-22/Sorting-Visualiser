@@ -180,6 +180,8 @@ function normal(){
 const stopBtn = document.querySelector(".stop");
 stopBtn.addEventListener('click',function(){
     isStop = true;
+    if(isPaused) pauseResumeBtn.textContent = 'Pause';
+    isPaused = false;
     enableSortingBtn();
     enableNewArrayBtn();
     document.querySelector(".sort").disabled = true;
